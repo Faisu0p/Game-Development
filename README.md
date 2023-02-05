@@ -2,7 +2,9 @@
  This game is made in Unity
  
  #Screenshots
- ![image](https://user-images.githubusercontent.com/74889912/216841275-7bd61429-61ab-4b38-8e6b-3737bfde661a.png)
+ 
+ 
+![image](https://user-images.githubusercontent.com/74889912/216841275-7bd61429-61ab-4b38-8e6b-3737bfde661a.png)
 
 ![image](https://user-images.githubusercontent.com/74889912/216841296-45288fba-d211-4852-b6de-0c3a7693b5db.png)
 
