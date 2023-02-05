@@ -2,7 +2,7 @@
  This game is made in Unity
  
  
-#Demo 
+# Demo 
 
 Ignore the Quality of the video  :)
  
